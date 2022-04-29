@@ -47,3 +47,9 @@ import torch.nn.functional as fonctional
 import torch.optim as optim
 from torch.optim.lr_scheduler import ReduceLROnPlateau
 
+## Authors
+
+Mathusan Kathirithamby , 
+Ali Akbar Sabzi Dizajyekan ,
+Majdi Saghrouni ,
+Oussama Soukeuyr
