@@ -10,7 +10,7 @@ Use the package manager [pip]
 !pip install einops > /dev/null
 
 ## Dependencies
-import pickle
+import pickle<br />
 import numpy as np
 from tqdm.notebook import tqdm
 from PIL import Image
