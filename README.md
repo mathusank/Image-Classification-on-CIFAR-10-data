@@ -49,7 +49,7 @@ from torch.optim.lr_scheduler import ReduceLROnPlateau <br />
 
 ## Authors
 
-Mathusan Kathirithamby , <br />
+[Mathusan Kathirithamby](https://github.com/mathusank), <br />
 Ali Akbar Sabzi Dizajyekan ,<br />
 Majdi Saghrouni ,<br />
 Oussama Soukeuyr
