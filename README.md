@@ -1,8 +1,12 @@
 # CIFAR-10 Dataset with Xception, Resnet and Densenet
 
-Resnet and Densenet architecture will be loaded from the PyTorch models library. Xception architecture will be made from scratch.
+Resnet and Densenet architecture will be loaded from the PyTorch models library. Xception architecture will be made from scratch. The goal of this project will be the to have the best classification F1-score. <br />
 
 All that is needed to run this code is a Notebook such as Jupyter, Google Collab, etc.
+
+## Dataset
+Dataset containing 50 000 training/validation images and 10 000 testing images of 10 different types of classes of objects and animals. <br />
+https://www.cs.toronto.edu/~kriz/cifar.html
 
 ## Installation
 
@@ -49,7 +53,7 @@ from torch.optim.lr_scheduler import ReduceLROnPlateau <br />
 
 ## Authors
 
-[Mathusan Kathirithamby](https://github.com/mathusank), <br />
-Ali Akbar Sabzi Dizajyekan ,<br />
-Majdi Saghrouni ,<br />
-Oussama Soukeuyr
+- [Mathusan Kathirithamby](https://github.com/mathusank), <br />
+- [Ali Akbar Sabzi Dizajyekan](https://github.com/sabzi1984) ,<br />
+- Majdi Saghrouni ,<br />
+- Oussama Soukeuyr
